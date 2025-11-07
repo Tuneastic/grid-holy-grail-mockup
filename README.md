@@ -32,4 +32,4 @@ x The article element has a gap of 15px
 x The card elements inside the article container have a height of 200px
 x The header and footer span across both columns
 x The sidebar only spans across the first column
-- The nav and article elements only span across the second column
+x The nav and article elements only span across the second column
